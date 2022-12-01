@@ -43,4 +43,3 @@ while True:
     if message:
         message = message.encode('utf-8')
         client_socket.send(message)
-        //oi
